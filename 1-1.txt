@@ -1,0 +1,16 @@
+1. A terminal is a way to get your computer to do something without using 
+GUI. GUI are helpful to visually see where everything is stored 
+(folders, subfolders, files) and makes it easier to click to complete tasks, 
+but depending on the task you are trying to complete, it may take a 
+lot of clicks. The terminal makes it easy to repeat tasks by typing and 
+eliminates the need for clicking. 
+2. TCP/IP powers the internet. Robert Kahn and Vinton Cerf
+developed TCP/IP.
+3. Client side of the internet is what we see. I type a URL (address)
+into the URL bar. This requests that I want to view something specific
+that is found at that address. The address is an IP address. Each IP 
+address coresponds to a server. A server is a computer that is set up to 
+wait for requests and fulfill requests. The requests come from the Client 
+through the form of a URL. The server pulls everything associated with 
+the IP address and sends them back to the client in response. 
+4. We can visit GitHub to leverage modules of existing code. 
